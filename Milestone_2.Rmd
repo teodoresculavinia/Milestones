@@ -1,0 +1,20 @@
+---
+title: "Milestone 2"
+author: "Lavinia Teodorescu"
+date: "9/25/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Project 1: The Position of Women in the Middle East by Jad Maayah (https://jadmaayah.shinyapps.io/WomenReligionMENA/)
+
+I love the topic of this project -- I think it is specific and very well formulated. The website looks arranged and organized, which makes it easy to find information of the website. I find the graphs very useful - for example, in the first part, "Support for Women in the Government," you can see how the views differ from country to country and from more authorian regimes to the more democratic ones. On the cons side, I find the actual selection of the question to be sligtly biased. For example, the first question is "Some people think in order to receive fairer representation a certain percentage of elected position shuld be set aside for women. To what extend do you agree with this statement?" This is a relevant question - however, it is not the same with "Do you believe there should be a higher percentage of women in elected position," which is what the introduction of the projects states that it wants to answer. This can be achieved through more means than just setting aside positions for women, and that should also be considered throughout the project. On a more technical point, I find that having the text from fill the entire screen, whit no white margins on the side, can be a bit distracting. At times, I found it hard to read the entire text because of how the text was positioned. However, this is one of my favourite projects, and the information as well as the graphs are extremely useful and well organized. 
+
+
+
+Project 2: Inequality in the world today, by Tivas Gupta (https://tivasg.shinyapps.io/Inequality/)
+
+Another project I found very interesting is Tivas' analysis of inequality around the world. I am interested in the topic of this project because it can analyze how different factors (happiness, social spending) are influenced by the regime of a country. I think this project has lots of useful information that was well organized in the graphs and divded by category. One thing I found difficult is understanding what each graph is going to represent before opening them. For example, in the first tab "Populism," when selecting a graph it makes me choose between "Graph 1" and "Graph 2," instead of mentioning what each graph represents. That being said, I love how Tivas chose to include both graphics that show a correlation, as well as the ones that do not. I think being able to see both connections and lack of connections is important, instead of pushing forward one view. On the other hand, it can sometimes be difficult to see the relationship between different graphs, as they are all ofn different pages. I think showing more han one graoh per page, for comparison, can be a more intuitive way of showing correlation between different areas. On the tab before the last ("Models"), the text is slightly bigger than the rest of the tabs, which can e distracting. However, the information represented in this project is very well selected and meaningful. Overall I love this project, but I think some techical changes could make it easier to understand and more use-friendly. 
