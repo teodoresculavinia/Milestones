@@ -9,6 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+REPO: https://github.com/teodoresculavinia/Milestones
+
 Project 1: The Position of Women in the Middle East by Jad Maayah (https://jadmaayah.shinyapps.io/WomenReligionMENA/)
 
 I love the topic of this project -- I think it is specific, very well formulated, and Jad did extensive data gathering. The website looks arranged and organized, which makes it easy to find information of the website. I find the graphs very useful - for example, in the first part, "Support for Women in the Government," you can see how the views differ from country to country and from more authorian regimes to the more democratic ones. On the cons side, I find the actual selection of the question to be sligtly biased. For example, the first question is "Some people think in order to receive fairer representation a certain percentage of elected position shuld be set aside for women. To what extend do you agree with this statement?" This is a relevant question - however, it is not the same with "Do you believe there should be a higher percentage of women in elected position," which is what the introduction of the projects states that it wants to answer. This can be achieved through more means than just setting aside positions for women, and that should also be considered throughout the project. On a more technical point, I find that having the text from fill the entire screen, whit no white margins on the side, can be a bit distracting. At times, I found it hard to read the entire text because of how the text was positioned. However, this is one of my favorite projects, and the information as well as the graphs are extremely useful and well organized. 
